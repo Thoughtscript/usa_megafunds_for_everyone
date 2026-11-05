@@ -42,6 +42,8 @@
     * Not a **Megafund**.
     * Not a **U.S. Fund**.
 1. Political support from the [Far Left](https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/), from [Trump](https://www.whitehouse.gov/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund/), from [Biden](https://www.bloomberg.com/news/articles/2024-09-06/biden-aides-working-on-proposal-for-us-sovereign-wealth-fund), and the [private](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) [sector](https://www.anthropic.com/news/public-benefit-fund).
+    * None yet implemented.
+    * By the definition above, none are **General Purpose Funds**. 
 
 ## Data 2026
 
