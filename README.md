@@ -27,7 +27,7 @@
 ***Megafunds for Everyone***
 * A **U.S. General Purpose Positive Growth Quasi-Governmental Megafund**
 * One or more existing at various governmental levels: City, Metro, County, State, Federal.
-* Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation without continuing to support critical social programs, pay off all student loans ever, universal basic income, backpay for pensioners, funding social security, deeply discounting medical care, avoid government shutdowns, equip Congress with enhanced "power of the purse", incentivize business with direct subsidies, etc.
+* Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation whilst continuing to support critical social programs, pay off all student loans ever, universal basic income, backpay for pensioners, funding social security, deeply discounting medical care, avoid government shutdowns, equip Congress with enhanced "power of the purse", incentivize business with direct subsidies, etc.
 * That's more than every other **Fund** in history combined: the Fuggers, the various national banks of the Belle Epoch, the de Medici's, Girard Bank, etc.
 
 ## Predecessors and Extants
