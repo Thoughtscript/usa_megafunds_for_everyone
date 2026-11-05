@@ -4,7 +4,7 @@
 
 ## Definitions
 
-1. **U.S. Fund** - a **Fund** associated with, statutorily defined to operate within, a specific recognized, incorporated, geographic region of the United States of America.
+1. **U.S. Fund** - a **Fund** associated with, statutorily defined to operate within, a specific recognized, incorporated, geographic region (**Government Unit**) of the United States of America.
 1. **General Purpose Fund** - a **Fund** with few statutory or regulatory constraints on use.
     * Cannot be statutorily defined *solely* as a **Budget Stabilization Fund**, **Emergency Facility**, or **Rainy Day Fund**.
     * Cannot be purposed to *solely* support a specific demographic (e.g. - pensioners, descendents, residents, etc.)
@@ -22,7 +22,7 @@
     * Can be a consortium of public and private interests.
     * Examples: Fannie Mae, Freddie Mac.
 
-***The Megafund for Everyone***
+***Megafunds for Everyone***
 * A **U.S. General Purpose Positive Growth Quasi-Governmental Megafund**
 * One or more existing at various governmental levels: City, Metro, County, State, Federal.
  * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation, support critical social programs, incentive business, etc.
