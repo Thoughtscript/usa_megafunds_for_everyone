@@ -14,7 +14,7 @@
     * Must be capable of growing independently of or from tax revenue.
 1. **Positive Growth Fund** - a **Fund**, endowment, or trust whose growth doesn't represent oustanding liabilities.
     * E.g. - a traditional 401K, Hedge Fund, etc.
-    * Not a fund representing maturing and issued bonds.
+    * Not a **Fund** representing maturing and issued bonds.
     * Bonds can be used to facilitate investment (cash is moved from the sale of bonds into the **Positive Growth Fund** and the maturing bonds held in another, the former being used to underwrite the latter).
 1. **Megafund** - a **Fund**, endowment, or trust with a diverse portfolio of assets, investments covering equities, bonds, etc.
     * It cannot be funded primarily through intra-governmental obligations.
@@ -28,7 +28,7 @@
 * A **U.S. General Purpose Positive Growth Quasi-Governmental Megafund**
 * One or more existing at various governmental levels: City, Metro, County, State, Federal.
 * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation whilst continuing to support critical social programs, pay off all student loans ever, universal basic income, backpay for pensioners, funding social security, deeply discounting medical care, avoid government shutdowns, equip Congress with enhanced "power of the purse", incentivize business with direct subsidies, etc.
-* That's more than every other **Fund** in history combined: the Fuggers, the various national banks of the Belle Epoch, the de Medici's, Girard Bank, etc.
+* That's more than every other **Fund** in history combined: the [Fuggers](https://en.wikipedia.org/wiki/Fugger_family), the various national banks of the Belle Epoch, the de Medici's, [Girard Bank](https://en.wikipedia.org/wiki/Stephen_Girard), etc.
 
 ## Predecessors and Extants
 
@@ -73,6 +73,8 @@
 ## Resources and Links
 
 1. https://www.thoughtscript.io/blog/000000000162
+1. https://en.wikipedia.org/wiki/Fugger_family
+1. https://en.wikipedia.org/wiki/Stephen_Girard
 1. https://apfc.org/
 1. https://www.seattletimes.com/seattle-news/politics/gov-ferguson-wants-to-tap-the-rainy-day-fund-what-does-that-mean/
 1. https://www.pif.gov.sa/en/private-sector-hub
