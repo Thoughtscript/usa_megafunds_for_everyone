@@ -66,6 +66,9 @@
     * None of these qualify as a **General Purpose Fund** (nor as a **Megafund**).
     * These are, in fact, a great portion of the Federal Debt itself. 
     * While these can "grow in size" - the greater the value, the more debt the U.S. Federal Government *actually owes*.
+* Perhaps surprisingly, the Federal Government has no **Fund** that qualifies as either:
+    * A **General Purpose Fund**.
+    * A **Megafund**.
 
 ## Resources and Links
 
