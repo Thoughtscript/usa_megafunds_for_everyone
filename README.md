@@ -2,6 +2,8 @@
 
 > From: https://www.thoughtscript.io/blog/000000000162
 
+*Some sample code and some data was generated using A.I. - this document, the original blog, idea, and research weren't*.
+
 ## Definitions
 
 1. **U.S. Fund** - a **Fund** associated with, statutorily defined to operate within, a specific recognized, incorporated, geographic region (**Government Unit**) of the United States of America.
