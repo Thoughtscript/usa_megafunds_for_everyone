@@ -27,7 +27,7 @@
 ***Megafunds for Everyone***
 * A **U.S. General Purpose Positive Growth Quasi-Governmental Megafund**
 * One or more existing at various governmental levels: City, Metro, County, State, Federal.
- * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation, support critical social programs, incentive business, etc.
+ * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation, support critical social programs, pay off all student loans ever, backpay for pensioners, incentivize business with direct subsidies, etc.
 
 ## Predecessors and Extants
 
@@ -43,6 +43,10 @@
 1. [Danish Vaekstfonden](https://www.swfinstitute.org/profile/5e39a2cafcbe7e8ca7140346)
     * Not a **Megafund**.
     * Not a **U.S. Fund**.
+1. [Ivy League Endowments](https://thecollegeinvestor.com/88041/why-elite-colleges-are-racing-to-offer-free-tuition/)
+    * Undergraduate tuition is now mostly free, costs absorbed by academic `501c3` endowments.
+    * Not a **General Purpose Fund**.
+    * Not **Quasi-Governmental**
 1. Political support from the [Far Left](https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/), from [Trump](https://www.whitehouse.gov/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund/), from [Biden](https://www.bloomberg.com/news/articles/2024-09-06/biden-aides-working-on-proposal-for-us-sovereign-wealth-fund), and the [private](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) [sector](https://www.anthropic.com/news/public-benefit-fund).
     * None yet implemented.
     * By the definition above, none are **General Purpose Funds**. 
@@ -69,6 +73,7 @@
 1. https://www.seattletimes.com/seattle-news/politics/gov-ferguson-wants-to-tap-the-rainy-day-fund-what-does-that-mean/
 1. https://www.pif.gov.sa/en/private-sector-hub
 1. https://www.swfinstitute.org/profile/5e39a2cafcbe7e8ca7140346
+1. https://thecollegeinvestor.com/88041/why-elite-colleges-are-racing-to-offer-free-tuition/
 1. https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/
 1. https://www.whitehouse.gov/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund/
 1. https://www.anthropic.com/news/public-benefit-fund
