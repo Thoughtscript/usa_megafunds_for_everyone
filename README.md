@@ -91,6 +91,8 @@
 1. https://www.anthropic.com/news/public-benefit-fund
 1. https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html
 1. https://data.census.gov/table/GOVSORGTIMESERIES.GS00ORG02?g=010XX00US_040XX00US27
+1. https://www.theguardian.com/technology/2016/jun/22/silicon-valley-universal-basic-income-y-combinator
+1. https://www.census.gov/library/stories/2025/11/tribal-casinos.html
 1. https://www.pew.org/en/research-and-analysis/articles/2018/10/11/how-rainy-day-funds-help-cities-prepare-for-revenue-volatility
 1. https://www.pew.org/en/research-and-analysis/articles/2026/10/26/states-rainy-day-fund-capacity-and-with-it-their-fiscal-flexibility-continues-to-decline
 1. https://www.pewresearch.org/short-reads/2025/08/12/key-facts-about-the-us-national-debt/
