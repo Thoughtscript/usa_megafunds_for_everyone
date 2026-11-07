@@ -28,6 +28,7 @@
 * A **U.S. General Purpose Positive Growth Quasi-Governmental Megafund**
 * One or more existing at various governmental levels: City, Metro, County, State, Federal.
 * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation whilst continuing to support critical social programs, pay off all student loans ever, universal basic income, backpay for pensioners, funding social security, deeply discounting medical care, avoid government shutdowns, equip Congress with enhanced "power of the purse", reparations, incentivize business with direct subsidies, etc.
+* Can be voluntary or optional to participate in (businesses can opt out).
 * That's more than every other **Fund** in history combined: the [Fuggers](https://en.wikipedia.org/wiki/Fugger_family), the various national banks of the Belle Epoch, the de Medici's, [Girard's Bank](https://en.wikipedia.org/wiki/Stephen_Girard), etc.
 
 ## Predecessors and Extants
@@ -51,6 +52,11 @@
 1. Political support from the [Far Left](https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/), from [Trump](https://www.whitehouse.gov/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund/), from [Biden](https://www.bloomberg.com/news/articles/2024-09-06/biden-aides-working-on-proposal-for-us-sovereign-wealth-fund), and the [private](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) [sector](https://www.anthropic.com/news/public-benefit-fund).
     * None yet implemented.
     * By the definition above, none are **General Purpose Funds**. 
+1. [Silicon Valley Universal Basic Income](https://www.theguardian.com/technology/2016/jun/22/silicon-valley-universal-basic-income-y-combinator)
+    * Not **Quasi-Governmental**.
+    * Ended.
+1. [Tribal Casinos](https://www.census.gov/library/stories/2025/11/tribal-casinos.html)
+    * Not a **General Purpose Fund**.
 
 ## Data 2026
 
@@ -60,7 +66,7 @@
     * OpenAI estimates that at most `.75%` of all **U.S. Government Units** have a **Rainy Day Fund**.
 * All `50` **U.S. States** have **Rainy Day Funds** (Contingency, Disaster, Emergency, **Budget Stabilization Funds**).
     * According to [Pew 2026](https://www.pew.org/en/research-and-analysis/articles/2026/10/26/states-rainy-day-fund-capacity-and-with-it-their-fiscal-flexibility-continues-to-decline) and [2018](https://www.pew.org/en/research-and-analysis/articles/2018/10/11/how-rainy-day-funds-help-cities-prepare-for-revenue-volatility) no **U.S. State** has more than `$7.25 Billion` set aside.
-    * A Median of about `50 Days` of unimpending funding in emergency or disaster scenarios.
+    * A Median of about `50 Days` of unimpeded funding in emergency or disaster scenarios.
     * No such **Fund** qualifies as a **General Purpose Megafund**.
 * The Federal Government has a handful of [Securities-based regimes](https://www.pewresearch.org/short-reads/2025/08/12/key-facts-about-the-us-national-debt/):
     * None of these qualify as a **General Purpose Fund** (nor as a **Megafund**).
