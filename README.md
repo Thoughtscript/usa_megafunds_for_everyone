@@ -30,6 +30,9 @@
 * Example: a `$400 Trillion` lockbox used to pay down Federal debt, underwrite U.S. insurance, eliminate taxation whilst continuing to support critical social programs, pay off all student loans ever, universal basic income, backpay for pensioners, funding social security, deeply discounting medical care, avoid government shutdowns, equip Congress with enhanced "power of the purse", reparations, incentivize business with direct subsidies, etc.
 * Can be voluntary or optional to participate in (businesses can opt out).
 * That's more than every other **Fund** in history combined: the [Fuggers](https://en.wikipedia.org/wiki/Fugger_family), the various national banks of the Belle Epoch, the de Medici's, [Girard's Bank](https://en.wikipedia.org/wiki/Stephen_Girard), etc.
+* To coherently absorb impending economic events:
+    * [Davida 511](https://finance.yahoo.com/news/forget-mars-unseen-frontier-worth-184239235.html)
+    * [16 Psyche](https://www.space.com/psyche-metal-asteroid-composition)
 
 ## Predecessors and Extants
 
@@ -81,6 +84,8 @@
 1. https://www.thoughtscript.io/blog/000000000162
 1. https://en.wikipedia.org/wiki/Fugger_family
 1. https://en.wikipedia.org/wiki/Stephen_Girard
+1. https://finance.yahoo.com/news/forget-mars-unseen-frontier-worth-184239235.html
+1. https://www.space.com/psyche-metal-asteroid-composition
 1. https://apfc.org/
 1. https://www.seattletimes.com/seattle-news/politics/gov-ferguson-wants-to-tap-the-rainy-day-fund-what-does-that-mean/
 1. https://www.pif.gov.sa/en/private-sector-hub
