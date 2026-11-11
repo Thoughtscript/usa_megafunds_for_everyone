@@ -63,7 +63,7 @@
 
 ## Data 2026
 
-> Python, Jupyter Lab [here](./jupyter/PewDataLab.ipynb) (to view the Pew Dataset which is a little unreadable as is owing the very helpful amount of data).
+> Python, Jupyter Lab [here](./jupyter/PewDataLab.ipynb) (to view the Pew Dataset which is a little unreadable as is owing to the very helpful amount of data).
 
 * [Census Bureau 2026](https://data.census.gov/table/GOVSORGTIMESERIES.GS00ORG02?g=010XX00US_040XX00US27) estimates there are `91,729` **Total Local Government Units** (`GO0002` **Aggregate Description**).
     * OpenAI estimates that at most `.75%` of all **U.S. Government Units** have a **Rainy Day Fund**.
